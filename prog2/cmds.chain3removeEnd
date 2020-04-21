@@ -1,0 +1,5 @@
+# may be good to set INITIALBUCKETS to 2, then following key-value pairs will be in bucket 0
+c 1 8
+c 3 16
+c 5 24
+d 5

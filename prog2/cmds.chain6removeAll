@@ -1,0 +1,14 @@
+# may be good to set INITIALBUCKETS to 2, then following key-value pairs will be in bucket 0
+# this should cause a resize if CHAININGTHRESHOLD is >= 5
+c 1 8
+c 3 16
+c 5 24
+c 7 48
+c 9 96
+c 11 192
+d 1
+d 5
+d 9
+d 3
+d 7
+d 11
