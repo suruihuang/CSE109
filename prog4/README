@@ -1,0 +1,6 @@
+# This program counts the occurrences of each type of byte streaming from STDIN. Specifically, it will count occurrences of each letter (regardless of case), each digit, each whitespace, all other printable characters in the base ASCII table (i.e., not extended-ASCII), all extended-ASCII characters, and all newline characters. 
+ 
+Usage: 
+  prog4 < someFile          
+  or        
+  prog4                  (Note: type input followed by Cntl+D) 
