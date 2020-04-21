@@ -1,0 +1,7 @@
+# prog1
+# prog1 performs an XOR-based encryption/decryption on the specified input file using the specified key file to produce the specified output file. 
+ 
+  prog1 -i|--input <input file> -o|--output <output file> -k|--key <key file>         
+  or
+  prog1 [-h|--help] 
+ 
